@@ -28,5 +28,5 @@
 🇫🇷 French (Intermediate)<br>
 
 ## **📚 Currently Learning**
-- Advanced ML techniques<br>
+- Advanced time series analysis & ML techniques<br>
 
